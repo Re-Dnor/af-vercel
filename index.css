@@ -89,9 +89,9 @@ body {
   border-radius: 1.1rem;
   background: radial-gradient(
     ellipse at center,
-    rgba(116, 241, 252, 1) 0%,
-    rgba(50, 230, 255, 1) 73%,
-    rgba(21, 199, 250, 1) 100%
+    rgb(230, 48, 48) 0%,
+    rgb(219, 46, 46) 73%,
+    rgb(231, 44, 44) 100%
   );
   display: inline-block;
   animation: wave 2100ms linear infinite;
